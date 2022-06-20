@@ -1,1 +1,1 @@
-# Backend - Rotate array clockwise | Backend - Rotar matriz en sentido horario
+# Backend - Rotate array counterclockwise | Backend - Rotar matriz en sentido anti-horario
